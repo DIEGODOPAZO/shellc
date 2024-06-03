@@ -1,4 +1,14 @@
-# shellc
-Trabajo 2º ingeniería informática que consiste en crear una shell.
+# Shellc
 
-Para compilar el ejecutable usar simplemente "make".  Para ver los diferentes comandos de la shell, una vez ejecutado el programa, escribir "ayuda", esto mostrara una lista de todos los comandos disponibles. Para más información, "ayuda cmd", siendo "cmd" un comando cualquiera de los disponibles, te dará instrucciones sobre como usarlo.
+## Compilación 
+
+Para compilar el ejecutable, simplemente usa el comando: 
+```sh 
+make
+```
+## Uso del Programa
+
+### Ayuda y Comandos
+Una vez ejecutado el programa, puedes escribir `ayuda` para ver una lista de todos los comandos disponibles. Para obtener más información sobre un comando específico, utiliza `ayuda cmd`, donde `cmd` es uno de los comandos disponibles. Esto te dará instrucciones sobre cómo usar ese comando.
+
+Además, puedes utilizar los comandos típicos de una shell bash.
